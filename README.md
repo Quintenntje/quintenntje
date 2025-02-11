@@ -1,3 +1,4 @@
+## About me
 <h1 align="center">Hi 👋, I'm Quinten Claes</h1>
 <h3 align="center">Developer from Belgium</h3>
 
