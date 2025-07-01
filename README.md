@@ -1,5 +1,8 @@
 # Hi 👋, I'm Quinten Claes  
 ### Developer from Belgium  
+### Currently learing:
+ - Typescript
+ - React / react-native
 
 ---
 
