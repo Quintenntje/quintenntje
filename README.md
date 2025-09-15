@@ -1,8 +1,8 @@
 # Hi 👋, I'm Quinten Claes  
 ### Developer from Belgium  
 ### Currently learning:
- - Typescript
- - React / react-native
+ - NextJs
+ - Laravel (PHP)
 
 ---
 
